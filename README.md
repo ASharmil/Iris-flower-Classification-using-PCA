@@ -1,5 +1,4 @@
-# CODSOFT_TASK-2
-codsoft "DATA SCIENCE " : Successfully completed my TASK 2 during my internship period.
+
 The Iris flower classification task is a classic machine learning problem where the goal is to classify iris flowers into one of three species based on their sepal and petal measurements. Here’s a detailed breakdown of the task:
 
 Dataset: The dataset typically includes measurements of sepal length, sepal width, petal length, and petal width for several iris flowers, along with their corresponding species (setosa, versicolor, or virginica).
